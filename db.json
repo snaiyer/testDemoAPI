@@ -1,0 +1,140 @@
+[
+    {
+        "layoutInfo": 
+          { 
+         "Layout_Variable_DeletedInd": "N",
+          "Parent_Ind": "N",
+          "Key_Position_Number": 9,
+          "Record_Type_cd": "W",
+          "Layout_Description": "      ",
+          "Field_Positio_num": 9,
+          "Max_Repititions": 1,
+          "Min_Repititions": 0,
+          "Repititions_no": 1,
+          "Layout_Name": "llrmgm",
+          "Slot_Id": "AB",
+          "Overlay_Ind": "N",
+          "Displacement_no": 19
+          },
+          "pkgeInfo": 
+          { 
+         "Checked_from_Package_Id": "0",
+          "Parent_Package_Id": "12345",
+          "Package_Id": "12345"
+          },
+          "varInfo": 
+          {
+          "Minimum_Value": -9999999,
+          "Accum_Type_Code": "Customer",
+          "Comments": "Test variable 1 with llrm_abcd details about the variable for testing",
+          "Variable_Name": "LLRMGM_ABCD",
+          "cobolLang_Type": "PIC S9V9 COMP-3",
+          "Record_Type": "W",
+          "Decimal_Precision": "0",
+          "subDatatype": "Packed",
+          "Default_type": "1",
+          "Missing_Allowed": "N",
+          "Variable_Modified_in_Package": "N",
+          "User_Interface_type": "P",
+          "Maximum_Value": "1000000000000000000",
+          "Historical_Indicator": "N",
+          "Variable_Deleted": "N",
+          "Word_boundary": "None",
+          "Variable_Length": "4",
+          "cLanguage_Type": "packed_t"
+          },
+          "miscInfo": {}
+    },
+    {
+        "layoutInfo": 
+          { 
+         "Layout_Variable_DeletedInd": "N",
+          "Parent_Ind": "N",
+          "Key_Position_Number": 9,
+          "Record_Type_cd": "W",
+          "Layout_Description": "      ",
+          "Field_Positio_num": 9,
+          "Max_Repititions": 1,
+          "Min_Repititions": 0,
+          "Repititions_no": 1,
+          "Layout_Name": "llrmzm",
+          "Slot_Id": "AB",
+          "Overlay_Ind": "N",
+          "Displacement_no": 19
+          },
+          "pkgeInfo": 
+          { 
+         "Checked_from_Package_Id": "0",
+          "Parent_Package_Id": "12345",
+          "Package_Id": "12345"
+          },
+          "varInfo": 
+          {
+          "Minimum_Value": -9999999,
+          "Accum_Type_Code": "Customer",
+          "Comments": "Test variable 1 with llrmzm_abcd details about the variable for testing",
+          "Variable_Name": "LLRMZM_ABCD",
+          "cobolLang_Type": "PIC S9V9 COMP-3",
+          "Record_Type": "W",
+          "Decimal_Precision": "0",
+          "subDatatype": "Packed",
+          "Default_type": "1",
+          "Missing_Allowed": "N",
+          "Variable_Modified_in_Package": "N",
+          "User_Interface_type": "P",
+          "Maximum_Value": "1000000000000000000",
+          "Historical_Indicator": "N",
+          "Variable_Deleted": "N",
+          "Word_boundary": "None",
+          "Variable_Length": "4",
+          "cLanguage_Type": "packed_t"
+          },
+          "miscInfo": {}
+    },
+    {
+        "layoutInfo": 
+          { 
+         "Layout_Variable_DeletedInd": "N",
+          "Parent_Ind": "N",
+          "Key_Position_Number": 9,
+          "Record_Type_cd": "W",
+          "Layout_Description": "      ",
+          "Field_Positio_num": 9,
+          "Max_Repititions": 1,
+          "Min_Repititions": 0,
+          "Repititions_no": 1,
+          "Layout_Name": "lmlmam_abcd",
+          "Slot_Id": "AB",
+          "Overlay_Ind": "N",
+          "Displacement_no": 19
+          },
+          "pkgeInfo": 
+          { 
+         "Checked_from_Package_Id": "0",
+          "Parent_Package_Id": "12345",
+          "Package_Id": "12345"
+          },
+          "varInfo": 
+          {
+          "Minimum_Value": -9999999,
+          "Accum_Type_Code": "Customer",
+          "Comments": "Test variable 1 with lmlmam_abcd details about the variable for testing",
+          "Variable_Name": "LMLMAM_ABCD",
+          "cobolLang_Type": "PIC S9V9 COMP-3",
+          "Record_Type": "W",
+          "Decimal_Precision": "0",
+          "subDatatype": "Packed",
+          "Default_type": "1",
+          "Missing_Allowed": "N",
+          "Variable_Modified_in_Package": "N",
+          "User_Interface_type": "P",
+          "Maximum_Value": "1000000000000000000",
+          "Historical_Indicator": "N",
+          "Variable_Deleted": "N",
+          "Word_boundary": "None",
+          "Variable_Length": "4",
+          "cLanguage_Type": "packed_t"
+          },
+          "miscInfo": {}
+    }
+]

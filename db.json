@@ -1,5 +1,5 @@
-[
-    {
+
+   [ [{
         "layoutInfo": 
           { 
          "Layout_Variable_DeletedInd": "N",
@@ -44,8 +44,8 @@
           "cLanguage_Type": "packed_t"
           },
           "miscInfo": {}
-    },
-    {
+    }],
+    [{
         "layoutInfo": 
           { 
          "Layout_Variable_DeletedInd": "N",
@@ -90,8 +90,8 @@
           "cLanguage_Type": "packed_t"
           },
           "miscInfo": {}
-    },
-    {
+    }],
+    [{
         "layoutInfo": 
           { 
          "Layout_Variable_DeletedInd": "N",
@@ -136,5 +136,5 @@
           "cLanguage_Type": "packed_t"
           },
           "miscInfo": {}
-    }
-]
+    }]]
+
